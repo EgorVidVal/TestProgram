@@ -23,7 +23,7 @@ namespace ConsoleApp6
 
             t.nammme = "привет";
             Console.WriteLine(t.nammme);
-            Console.WriteLine("Приве");
+            Console.WriteLine("qweqweqweqwe
 
         }
     }
